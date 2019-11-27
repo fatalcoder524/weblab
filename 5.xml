@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="p5.css"?>
+
+<Students>
+
+<title>STUDENT DETAILS </title>
+
+<stud1>
+        
+	<usn>Usn: 17CS091 </usn>
+        
+	<Name>Name: Shravani </Name>
+        
+	<Collegename>CN: Canara </Collegename>
+        
+	<Branch> Branch:CSE </Branch>
+        
+	<YoJ> YoJ:2016 </YoJ>
+        
+	<email-Id> Id: sabc@gmail.com </email-Id>
+
+</stud1>
+
+
+<stud2>
+      
+	 <usn>Usn: 17CS092 </usn>
+      
+  	<Name>Name: Shwetha </Name>
+        
+	<Collegename>CN: Canara </Collegename>
+   
+     	<Branch> Branch:CSE </Branch>
+      
+	 <YoJ> YoJ:2016 </YoJ>
+     
+   	<email-Id> Id: abcs@gmail.com </email-Id>
+
+</stud2>
+
+
+<stud3>
+        
+	<usn>Usn: 17CS093 </usn>
+        	
+	<Name>Name: Shubha </Name>
+        
+	<Collegename>CN: Canara </Collegename>
+        
+	<Branch> Branch:CSE </Branch>
+        
+	<YoJ> YoJ:2016 </YoJ>
+        
+	<email-Id> Id: asbc@gmail.com </email-Id>
+
+</stud3>
+
+<footer> copyright@shwetha(4CB16CS093)</footer>	
+
+
+</Students>
+----------------------------------------------css--------------------------------------------------
+title
+
+{
+
+font-weight: bold;
+
+color:white;
+
+display:block;
+height:130px;
+width:100%;
+
+font-size:50px;
+
+background-color:black;
+
+text-align:center;
+
+}
+
+
+stud1
+
+{
+
+color:white;
+
+display:block;
+
+width:100%;
+
+height:150px;
+
+background-color:darkred;
+
+}
+
+
+stud2
+
+{
+
+color:darkred;
+
+display:block;
+
+width:100%;
+
+height:150px;
+
+background-color:white;
+
+}
+
+
+stud3
+
+{
+
+color:white;
+
+display:block;
+
+width:100%;
+
+height:150px;
+
+background-color:darkred;
+
+}
+
+
+usn,Name,Collegename,Branch,YoJ,email-Id
+
+{
+
+font-size:20px;
+
+display:block;
+
+margin-left:43%;
+
+}
+
+
+
+footer
+
+{
+
+color:white;
+
+display:block;
+
+width:100%;
+
+height:120px;
+
+font-size:40px;
+
+background-color:black;
+
+text-align:center;
+
+}
